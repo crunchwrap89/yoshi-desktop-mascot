@@ -1,0 +1,13 @@
+{
+  "name": "moving-gif-app",
+  "version": "1.0.0",
+  "description": "An Electron app that displays a randomly moving GIF",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}
