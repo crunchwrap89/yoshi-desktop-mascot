@@ -23,3 +23,4 @@ open "$DIR/dist/yoshi-mascot-darwin-arm64/yoshi-mascot.app"
 
 
 
+Find outdoor activities or send your friends out on an adventure at [www.geoquestr.com](https://geoquestr.com)
